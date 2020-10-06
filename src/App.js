@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Usha Sreevani Jonnalagadda
         </a>
       </header>
     </div>
